@@ -1,17 +1,17 @@
 ---
 # This is the title of the article
-title: Page Config
+title: 学历
 # This is the icon of the page
 icon: page
 # This control sidebar order
 order: 1
 # Set author
-author: Ms.Hope
+author: 李火火
 # Set writing time
 date: 2023-06-01
 # A page can have multiple categories
 category:
-  - Guide
+  - 教育
 # A page can have multiple tags
 tag:
   - Page config
@@ -26,7 +26,8 @@ footer: Footer content for test
 copyright: No Copyright
 ---
 
-Content before `more` comment is regarded as page excerpt.
+教育背景：广州应用科技学院 2020.09-2024.06    
+专业：软件工程
 
 <!-- more -->
 
