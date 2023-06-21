@@ -31,7 +31,7 @@ projects:
     link: https://blog.csdn.net/weixin_47371464/article/details/129535475?ops_request_misc=&request_id=&biz_id=102&utm_term=%E4%BC%98%E7%A7%80%E6%96%87%E7%AB%A0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-129535475.142^v88^koosearch_v1,239^v2^insert_chatgpt&spm=1018.2226.3001.4187
 
   - icon: friend
-    name: 洪坚凯
+    name: 洪坚锴
     desc: 伙伴详细介绍
     link: https://user.qzone.qq.com/1806332015/main
 
