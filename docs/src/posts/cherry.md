@@ -17,6 +17,9 @@ tag:
 2、static：修饰全局变量的时候，这个全局变量的外部连接属性就变成内部链接属性。其他源文件（.c）就不能在使用这个全局变量了。  
 3、static：修饰函数->一个函数本来就具有外部链接属性的，但是被static修饰的时候，外部链接属性就变成了内部链接属性，其他源文件（.c）就无法使用了。
 
-### Heading 3
+### git 版本控制
 
-Here is the content.
+1、git commit -am '保存'。  
+2、git checkout  切换分支。  
+3、git merge   合并分支
+4、git push   保存并提交到远程。
