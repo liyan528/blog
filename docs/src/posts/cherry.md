@@ -22,5 +22,5 @@ tag:
 
 1、git commit -am '保存'。  
 2、git checkout  切换分支。  
-3、git merge   合并分支
+3、git merge   合并分支  
 4、git push   保存并提交到远程。
